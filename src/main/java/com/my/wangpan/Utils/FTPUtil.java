@@ -21,7 +21,7 @@ public class FTPUtil {
     /**
      * FTP服务器
      */
-    private static String HOST = "192.168.80.1";
+    private static String HOST = "";
     /**
      * 端口
      */
@@ -29,11 +29,11 @@ public class FTPUtil {
     /**
      * 登录账号
      */
-    private static String USERNAME = "hanbaomao";
+    private static String USERNAME = "";
     /**
      * 登录密码
      */
-    private static String PASSWORD = "pfznb666";
+    private static String PASSWORD = "";
     /**
      * FTP基础目录，这个是搭建的时候自己设置的
      */
